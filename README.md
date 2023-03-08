@@ -1,6 +1,6 @@
 # About
 
-unity 3d game project
+unity 3d VR game project
 
 ![1](https://user-images.githubusercontent.com/66999597/222114638-ac3863e1-f279-472e-8e32-8bf25461a99a.png)
 
